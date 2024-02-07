@@ -1,2 +1,0 @@
-# .github
-Creators of Sehatk.
